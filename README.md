@@ -5,9 +5,9 @@
 
 3) Write a Java program to compare two numbers and print which one is greater or if they are equal.
 
-4)Create a Java program that checks if a person is eligible to vote — eligibility requires age ≥ 18 and citizenship = true (use logical AND).
+4) Create a Java program that checks if a person is eligible to vote — eligibility requires age ≥ 18 and citizenship = true (use logical AND).
 
-5)Write a Java program to demonstrate +=, -=, and *= operations on an integer variable and display the result after each operation.
+5) Write a Java program to demonstrate +=, -=, and *= operations on an integer variable and display the result after each operation.
 
 6) Write a Java program that reads a number and uses the ternary operator to print whether it is even or odd.
 
