@@ -4,6 +4,7 @@
 2) Write a Java program to perform bitwise AND, OR, and XOR operations on two integers entered by the user, and print the binary results.
 
 3) Write a Java program to compare two numbers and print which one is greater or if they are equal.
+   ![image alt] (https://github.com/aishagilani/module2/blob/7e2a4e0055d0e7696810fe4260f60cc923191a1d/Q3a.jpeg)
    ![image alt](https://github.com/aishagilani/module2/blob/afa07d17ad075c66c8babd169cf91f6b81694369/3b.jpeg)
 
 5) Create a Java program that checks if a person is eligible to vote — eligibility requires age ≥ 18 and citizenship = true (use logical AND).
