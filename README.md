@@ -9,12 +9,12 @@
    ![image alt](https://github.com/aishagilani/module2/blob/afa07d17ad075c66c8babd169cf91f6b81694369/3b.jpeg)
 
 4) Create a Java program that checks if a person is eligible to vote — eligibility requires age ≥ 18 and citizenship = true (use logical AND).
- ![image alt](https://github.com/aishagilani/module2/blob/075d5fb17701a4f127ed039d5aa9f09c06bf8ea8/4a.jpeg)
- ![image alt](https://github.com/aishagilani/module2/blob/075d5fb17701a4f127ed039d5aa9f09c06bf8ea8/4b.jpeg)
- ![image alt](https://github.com/aishagilani/module2/blob/075d5fb17701a4f127ed039d5aa9f09c06bf8ea8/4c.jpeg)
+   ![image alt](https://github.com/aishagilani/module2/blob/075d5fb17701a4f127ed039d5aa9f09c06bf8ea8/4a.jpeg)
+   ![image alt](https://github.com/aishagilani/module2/blob/075d5fb17701a4f127ed039d5aa9f09c06bf8ea8/4b.jpeg)
+   ![image alt](https://github.com/aishagilani/module2/blob/075d5fb17701a4f127ed039d5aa9f09c06bf8ea8/4c.jpeg)
 
 5) Write a Java program to demonstrate +=, -=, and *= operations on an integer variable and display the result after each operation.
-   ![image alt](https://github.com/aishagilani/module2/blob/075d5fb17701a4f127ed039d5aa9f09c06bf8ea8/5.jpeg)
+    ![image alt](https://github.com/aishagilani/module2/blob/075d5fb17701a4f127ed039d5aa9f09c06bf8ea8/5.jpeg)
 
 6) Write a Java program that reads a number and uses the ternary operator to print whether it is even or odd.
    ![image alt](https://github.com/aishagilani/module2/blob/075d5fb17701a4f127ed039d5aa9f09c06bf8ea8/6a.jpeg)
