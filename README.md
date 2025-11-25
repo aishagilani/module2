@@ -15,21 +15,22 @@
    ![image alt](https://github.com/aishagilani/module2/blob/075d5fb17701a4f127ed039d5aa9f09c06bf8ea8/4c.jpeg)
 
 6) Write a Java program to demonstrate +=, -=, and *= operations on an integer variable and display the result after each operation.
+7) 
     ![image alt](https://github.com/aishagilani/module2/blob/075d5fb17701a4f127ed039d5aa9f09c06bf8ea8/5.jpeg)
 
-7) Write a Java program that reads a number and uses the ternary operator to print whether it is even or odd.
+8) Write a Java program that reads a number and uses the ternary operator to print whether it is even or odd.
    ![image alt](https://github.com/aishagilani/module2/blob/075d5fb17701a4f127ed039d5aa9f09c06bf8ea8/6a.jpeg)
    ![image alt](https://github.com/aishagilani/module2/blob/075d5fb17701a4f127ed039d5aa9f09c06bf8ea8/6b.jpeg)
 
-8) Write a Java program using an if-else statement to determine if an input number is positive, negative, or zero.
+9) Write a Java program using an if-else statement to determine if an input number is positive, negative, or zero.
    ![image alt](https://github.com/aishagilani/module2/blob/075d5fb17701a4f127ed039d5aa9f09c06bf8ea8/7a.jpeg)
    ![image alt](https://github.com/aishagilani/module2/blob/075d5fb17701a4f127ed039d5aa9f09c06bf8ea8/7b.jpeg)
    ![image alt](https://github.com/aishagilani/module2/blob/075d5fb17701a4f127ed039d5aa9f09c06bf8ea8/7c.jpeg)
 
-9) Write a Java program to print the multiplication table of a number using a for loop.
+10) Write a Java program to print the multiplication table of a number using a for loop.
    ![image alt](https://github.com/aishagilani/module2/blob/075d5fb17701a4f127ed039d5aa9f09c06bf8ea8/8.jpeg)
 
-10) Write a Java program that prints numbers from 1 to 10, but skips 5 using the continue statement.
+11) Write a Java program that prints numbers from 1 to 10, but skips 5 using the continue statement.
     ![image alt](https://github.com/aishagilani/module2/blob/075d5fb17701a4f127ed039d5aa9f09c06bf8ea8/9.jpeg)
 
 
